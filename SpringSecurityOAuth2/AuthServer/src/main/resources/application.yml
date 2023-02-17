@@ -1,0 +1,11 @@
+spring:
+  redis:
+    database: 1
+    port: 55000
+    username: default
+    password: redispw
+
+jwt:
+  secretKey: $@df56!33
+server:
+  port: 8080
